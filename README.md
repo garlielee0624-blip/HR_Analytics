@@ -6,7 +6,7 @@ This project analyzes employee attrition data to identify factors that influence
 
 ## Database Source
 
-https://www.kaggle.com/datasets/giripujar/hr-analytics?resource=download
+https://www.kaggle.com/datasets/giripujar/hr-analytics
 
 ## Objectives
 
