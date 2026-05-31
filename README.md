@@ -4,6 +4,10 @@
 
 This project analyzes employee attrition data to identify factors that influence employee turnover and support data-driven HR decision-making.
 
+## Database Source
+
+https://www.kaggle.com/datasets/giripujar/hr-analytics?resource=download
+
 ## Objectives
 
 * Explore employee demographics and workplace characteristics
